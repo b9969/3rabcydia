@@ -1,12 +1,3 @@
-
-<?php
-$json = file_get_contents('http://127.0.0.1/api/api.php');
-$obj = json_decode($json);
-print $obj->{'name'}; 
-?>
-return Unknown
-
-exemple_02
-
-echo "$obj->ip"; 
-return 127.0.0.1
+<p align="center"> <img  title="IP" 
+src="http://www.wieistmeineip.de/ip-address/?size=468x60"  alt="IP" 
+border="0" height="60" width="468">  
